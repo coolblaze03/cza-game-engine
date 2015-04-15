@@ -1,0 +1,1 @@
+This is a game engine i start back in 07 and every now and then add and remove features to make it better. It uses opengl.
